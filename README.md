@@ -47,7 +47,7 @@
 
 ### 方法一：使用预编译版本 (推荐)
 
-1. 从 [Releases](https://github.com/yourusername/data-security-extractor/releases) 页面下载最新版本
+1. 从页面下载最新版本
 2. 解压到任意目录
 3. 双击运行 `DataExtractorGUI.exe`
 4. 按照界面提示操作即可
@@ -63,10 +63,6 @@
 
 #### 运行步骤
 1. 克隆仓库
-   ```bash
-   git clone https://github.com/yourusername/data-security-extractor.git
-   cd data-security-extractor
-   ```
 
 2. 运行主程序
    ```bash
