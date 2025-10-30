@@ -139,10 +139,12 @@ output/
 
 ## 📸 界面预览
 
-![主界面](screenshots/main-window.png)
+<img width="802" height="632" alt="c69d88772e31035d904ce6b8cfd67e2e" src="https://github.com/user-attachments/assets/25c4e68a-78b5-49e4-975b-5d30617940e0" />
+
 *简洁直观的主界面*
 
-![扫描结果](screenshots/scan-results.png)  
+<img width="1518" height="606" alt="e22072bc4972d3afff1a243313b5235e" src="https://github.com/user-attachments/assets/adca3e03-88d4-4be1-8e54-7a49c01a513c" />
+
 *详细的扫描结果和进度显示*
 
 ## 🎯 应用场景
